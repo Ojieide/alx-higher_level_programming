@@ -83,3 +83,35 @@
 <li>What is a lambda function</li>
 <li>What are the map, reduce and filter functions</li>
 </ul>
+
+<h1>0x04. Python - More Data Structures: Set, Dictionary</h1>
+
+<h2>Learning Objectives</h2>
+
+<ul>
+<li>Why Python programming is awesome</li>
+<li>What are sets and how to use them</li>
+<li>What are the most common methods of set and how to use them</li>
+<li>When to use sets versus lists</li>
+<li>How to iterate into a set</li>
+<li>What are dictionaries and how to use them</li>
+<li>When to use dictionaries versus lists or sets</li>
+<li>What is a key in a dictionary</li>
+<li>How to iterate over a dictionary</li>
+<li>What is a lambda function</li>
+<li>What are the map, reduce and filter functions</li>
+</ul>
+
+<h1>0x05. Python - Exceptions</h1>
+
+<h2>Learning Objectives</h2>
+<ul>
+<li>Why Python programming is awesome</li>
+<li>What’s the difference between errors and exceptions</li>
+<li>What are exceptions and how to use them</li>
+<li>When do we need to use exceptions</li>
+<li>How to correctly handle an exception</li>
+<li>What’s the purpose of catching exceptions</li>
+<li>How to raise a builtin exception</li>
+<li>When do we need to implement a clean-up action after an exception</li>
+</ul>
