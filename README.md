@@ -1,5 +1,4 @@
 <h1>0x00. Python - Hello, World</h1>
-
 <h2>Learning Objectives</h2>
 <ul>
 <li>Why Python programming is awesome</li>
@@ -15,7 +14,6 @@
 </ul>
 
 <h1>0x01. Python - if/else, loops, functions</h1>
-
 <h2>Learning Objectives</h2>
 <ul>
 <li>Why Python programming is awesome</li>
@@ -37,7 +35,6 @@
 </ul>
 
 <h1>0x02. Python - import & modules</h1>
-
 <h2>Learning Objectives</h2>
 <ul>
 <li>Why Python programming is awesome</li>
@@ -50,7 +47,6 @@
 </ul>
 
 <h1>0x03. Python - Data Structures: Lists, Tuples</h1>
-
 <h2>Learning Objectives</h2>
 <ul>
 <li>Why Python programming is awesome</li>
@@ -68,7 +64,6 @@
 </ul>
 
 <h1>0x03. Python - Data Structures: Lists, Tuples</h1>
-
 <h2>Learning Objectives</h2>
 <ul>
 <li>Why Python programming is awesome</li>
@@ -85,9 +80,7 @@
 </ul>
 
 <h1>0x04. Python - More Data Structures: Set, Dictionary</h1>
-
 <h2>Learning Objectives</h2>
-
 <ul>
 <li>Why Python programming is awesome</li>
 <li>What are sets and how to use them</li>
@@ -103,7 +96,6 @@
 </ul>
 
 <h1>0x05. Python - Exceptions</h1>
-
 <h2>Learning Objectives</h2>
 <ul>
 <li>Why Python programming is awesome</li>
@@ -117,9 +109,7 @@
 </ul>
 
 <h1>0x06. Python - Classes and Objects</h1>
-
 <h2>Learning Objectives</h2>
-
 <ul>
 <li>Why Python programming is awesome</li>
 <li>What is OOP</li>
@@ -141,4 +131,16 @@
 <li>What is the __dict__ of a class and/or instance of a class and what does it contain</li>
 <li>How does Python find the attributes of an object or class</li>
 <li>How to use the getattr function</li>
+</ul>
+
+<h1>0x07. Python - Test-driven development</h1>
+<h2>Learning Objectives</h2>
+<ul>
+<li>Why Python programming is awesome</li>
+<li>What’s an interactive test</li>
+<li>Why tests are important</li>
+<li>How to write Docstrings to create tests</li>
+<li>How to write documentation for each module and function</li>
+<li>What are the basic option flags to create tests</li>
+<li>How to find edge cases</li>
 </ul>
