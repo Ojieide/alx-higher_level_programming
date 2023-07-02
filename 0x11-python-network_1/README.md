@@ -8,4 +8,3 @@
 <li>How to make HTTP POST/PUT/etc. request</li>
 <li>How to fetch JSON resources</li>
 <li>How to manipulate data from an external service</li>
-</ul>
